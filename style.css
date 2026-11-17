@@ -232,3 +232,4 @@ h1, h2, h3, .number, .hero-tagline, .intro, .contact-copy, .project-info > p:las
     .profile-tags li:nth-child(3n) { animation-range: entry 28% cover 31%; }
   }
 }
+
